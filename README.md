@@ -15,7 +15,13 @@ https://adityagarg.pythonanywhere.com/register
 - **Manage Itineraries**: Create, edit, and manage your travel plans all in one place.
 - **Payments**: Multiple options for making payments.
 - **Travel Guides and Tips**: Access useful travel guides and tips to make the most of your trips.
+- **Admin**: The admin can add/delete/update flights, hotels and ackages without writing any code.
 
-  ## Tech Stack
+## Tech Stack
+**Front-End**: HTML, CSS, JavaScript
+**Back-End**: Django
+**Database**: SQLite
+**Payments**: Razorpay API
+
 
 
