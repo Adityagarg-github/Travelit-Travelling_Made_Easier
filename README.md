@@ -18,10 +18,10 @@ https://adityagarg.pythonanywhere.com/register
 - **Admin**: The admin can add/delete/update flights, hotels and ackages without writing any code.
 
 ## Tech Stack
-**Front-End**: HTML, CSS, JavaScript
-**Back-End**: Django
-**Database**: SQLite
-**Payments**: Razorpay API
+- **Front-End**: HTML, CSS, JavaScript
+- **Back-End**: Django
+- **Database**: SQLite
+- **Payments**: Razorpay API
 
 
 
