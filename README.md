@@ -2,7 +2,8 @@
 
 ## Introduction
 
-Welcome to Travelit! Travelit is your ultimate travel companion, designed to simplify and enhance your travel planning experience. Built with Django, Travelit offers a variety of features that allow you to explore destinations, book accommodations, manage itineraries, and much more. Our goal is to make your travel experience as smooth and enjoyable as possible.
+Welcome to Travelit! </br>
+Travelit is your ultimate travel companion, designed to simplify and enhance your travel planning experience. Built with Django, Travelit offers a variety of features that allow you to explore destinations, book accommodations, manage itineraries, and much more. Our goal is to make your travel experience as smooth and enjoyable as possible.
 
 ## Website
 https://adityagarg.pythonanywhere.com/register
